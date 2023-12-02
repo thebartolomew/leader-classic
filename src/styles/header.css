@@ -1,0 +1,25 @@
+.header {
+  padding: 35px 0;
+  position: relative;
+}
+.header__content {
+  display: flex;
+  color: #fff;
+  align-items: center;
+  justify-content: space-between;
+}
+.header__logo {
+  display: flex;
+  align-items: center;
+}
+.header__logo svg {
+  max-width: 52px;
+  max-height: 45px;
+}
+.header__logo h1 {
+  font-size: 12px;
+}
+.header__logo__list {
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=header.css.map */
